@@ -10,3 +10,4 @@ public class CannotBuildPyramidException extends RuntimeException {
         super(message, cause);
     }
 }
+

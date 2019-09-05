@@ -48,6 +48,7 @@ public class Calculator {
             }
         }
 
+
         //----вычисления + или -----------------------
         int agregate1 = Integer.parseInt(operands[0]);
         for (int i = 1; i < operands.length; i++) {

@@ -19,6 +19,7 @@ public class PyramidBuilder {
 
         try {
 
+
             int size = 0;
             int k = 0;
             size = inputNumbers.size();
